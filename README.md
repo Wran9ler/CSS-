@@ -6,3 +6,6 @@
   Main project with name final. 
 Kolesa.kz is online-market where everyone can share his advertisment about selling only about moving property. Using python we parsed a lot of pages of advertisments. We found the most popular car in every top 5 cities in Kazakhstan, we were able to find out diffrence between two the most popular car brand and compared difference between Astana and Almaty.  
 
+Univercity registration service - classes
+
+Creating a servise, which allows anyone to add/remove person into base. Used inheritance to get some points more easier to configurate.
